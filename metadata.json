@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Civora",
+  "description": "Smart Municipal Services and Civic Engagement Portal empowering citizens with digital solutions for water supply, waste management, grievances, bill payments, and certificates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
